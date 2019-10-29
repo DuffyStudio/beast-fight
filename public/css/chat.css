@@ -1,0 +1,43 @@
+#msg{
+  position: absolute;
+  bottom: 0%;
+  height:10%;
+  width:100%;
+  right:0%;
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+label[for=msg]
+{
+  position: absolute;
+  bottom: 10%;
+  height:5%;
+  width:100%;
+  right:0%;
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+#chat{
+  position: absolute;
+  top: 0%;
+  right: 0%;
+  width: 100%;
+  height: 85%;
+  background-color: #DDD;
+  margin: 0;
+  overflow-y: scroll;
+}
+.blue{
+  color: blue;
+}
+.purple{
+  color: rebeccapurple;
+}
+.green{
+  color:green;
+}
+.red{
+  color:red;
+}

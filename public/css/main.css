@@ -1,0 +1,10 @@
+html,body,canvas{
+  margin:0;
+  padding:0;
+  overflow: none;
+}
+#bCanvas{
+  position:absolute;
+  width:60%;
+  height:100%;
+}
